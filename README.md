@@ -13,7 +13,7 @@ A star schema model was implemented to improve performance, simplify filtering b
 The Sales table acts as the central fact table, connected to dimension tables such as Products, Region, and Salesperson.
 This structure allows consistent aggregations across different business perspectives including product, geography, and sales performance.
 
-*place holder do print*
+![Star Schema](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/Schema.JPG?raw=true)
 # 🧮 DAX Calculations
 
 DAX measures were created to evaluate performance, growth, and efficiency across multiple business dimensions.  
@@ -109,7 +109,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 
 ## Page 3: Trend & Growth Analysis
 
-![Trend & Growth](images/trend.png)
+![Trend & Growth](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/TrendAndGrowth.JPG?raw=true)
 
 ### Key Insights
 
@@ -136,7 +136,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 
 ## Page 4: Geographic Performance
 
-![Geographic Performance](images/geographic.png)
+![Geographic Performance](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/GeographicPerformance.JPG?raw=true)
 
 ### Key Insights
 
@@ -160,7 +160,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 
 ## Page 5: Sales Performance Analysis
 
-![Sales Performance](images/sales-performance.png)
+![Sales Performance](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/SalespersonPerformance.JPG?raw=true)
 
 ### Key Insights
 
