@@ -2,22 +2,23 @@
 This project analyzes company sales performance across products, markets, and sales representatives using Power BI.
 The goal was to identify profitability drivers, underperforming areas, and growth opportunities.
 The analysis focuses not only on revenue generation but also on operational efficiency and margin sustainability.
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 - Power BI
 - DAX
 - Power Query
 - Data Modeling (Star Schema)
 - Data Visualization
-# 🧱 Data Model
+# Data Model
 A star schema model was implemented to improve performance, simplify filtering behavior, and support scalable analysis.
 The Sales table acts as the central fact table, connected to dimension tables such as Products, Region, and Salesperson.
 This structure allows consistent aggregations across different business perspectives including product, geography, and sales performance.
 
 ![Star Schema](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/Schema.JPG?raw=true)
-# 🧮 DAX Calculations
-
+# DAX Calculations
 DAX measures were created to evaluate performance, growth, and efficiency across multiple business dimensions.  
 The calculations focused on profitability analysis, year-over-year comparison, performance ranking, and product segmentation.
+
+![Dax Measures](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/KeyMeasures.JPG?raw=true)
 
 **Profitability Metrics**
 
@@ -54,7 +55,7 @@ These measures helped identify top contributors, underperforming representatives
 
 Products were dynamically classified into performance segments based on profitability and revenue contribution.  
 This segmentation enabled strategic portfolio analysis and supported decision-making regarding product optimization and discontinuation.
-# 🔎 Analysis & Insights
+# Analysis & Insights
 
 ### Page 1: Executive Overview
 
@@ -80,7 +81,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 
 ### Page 2: Profitability & Product Mix
 
-![Product Profitability](images/product-analysis.png)
+![Product Profitability](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/ProfitabilityAndProductMix.JPG?raw=true)
 
 ### Key Insights
 
@@ -181,7 +182,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 - Provide targeted training focused on selling higher-margin products and improving negotiation practices.
 - Adjust compensation or bonus structures to reward profitable sales instead of only sales volume.
 - Share best practices from high-efficiency representatives across the sales team.
-# 📈 Final Conclusion
+# Final Conclusion
 
 The company is experiencing **revenue growth but declining profitability**.  
 Although sales volume continues to expand, **margin compression indicates that operational efficiency is deteriorating over time**.
