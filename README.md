@@ -106,3 +106,78 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 - Reduce revenue concentration risk by gradually expanding sales of higher-margin categories.
 - Develop cross-selling strategies to increase Clothing and Accessories sales, leveraging their strong margins.
 - Consider targeted marketing campaigns and sales training programs to promote higher-margin complementary products during the bike purchase journey.
+
+## Page 3: Trend & Growth Analysis
+
+![Trend & Growth](images/trend.png)
+
+### Key Insights
+
+- Every month of 2020 shows higher **revenue** than the same month in 2019, indicating strong sales growth.
+- However, the opposite occurs with **profit**. Monthly profit decreased significantly year-over-year, ranging from a 77% decline to a 170% decline.
+- January and May recorded operating losses, with May reaching approximately **–4.4K profit**.
+- Year-to-date results (January–May) reinforce the same pattern:
+  - **Revenue increased by +43.96%**
+  - **Profit decreased by –117.15%**
+- The company is selling more products but earning less money from those sales, indicating severe margin compression.
+
+### Interpretation
+
+- Business growth is currently volume-driven rather than efficiency-driven.
+- The increasing gap between revenue and profit suggests rising costs, heavier discounting, or a shift toward lower-margin products.
+- Without intervention, continued growth may worsen financial performance instead of improving it.
+
+### Recommendations
+
+- Investigate cost structure changes, especially within high-volume product categories.
+- Review pricing and discount strategies to prevent margin erosion.
+- Monitor profit margin as a primary performance KPI rather than relying solely on revenue growth.
+- Prioritize sustainable growth by balancing sales expansion with profitability control.
+
+## Page 4: Geographic Performance
+
+![Geographic Performance](images/geographic.png)
+
+### Key Insights
+
+- The **United States is the dominant market**, generating more than double the revenue and profit of the second largest country (Canada).
+- **France shows the highest efficiency**, presenting the best profit margin at approximately 2.59%.
+- **Australia and Germany operate with negative margins**, contributing to overall profitability deterioration.
+- Category analysis reveals that **Bikes are the primary driver of losses in both Australia and Germany**.
+
+### Interpretation
+
+- Market size does not necessarily correlate with operational efficiency.
+- The business relies heavily on the U.S. market for profitability, creating geographic concentration risk.
+- Poor performance in specific countries appears to be product-driven rather than demand-driven.
+
+### Recommendations
+
+- Reevaluate product strategy in Australia and Germany, particularly within the Bikes category.
+- Align product offerings with regional profitability performance instead of applying a uniform global strategy.
+- Expand focus on high-margin products in efficient markets such as France.
+- Reduce dependence on a single market by improving profitability in secondary regions.
+
+## Page 5: Sales Performance Analysis
+
+![Sales Performance](images/sales-performance.png)
+
+### Key Insights
+
+- Sales performance varies significantly across representatives, showing large differences in profitability contribution.
+- Some representatives generate high revenue but comparatively low profit, indicating heavy discounting or inefficient product mix.
+- Other representatives achieve strong profit margins despite lower sales volume, demonstrating higher sales efficiency.
+- Performance differences are not fully explained by territory size alone, suggesting that individual selling strategies influence results.
+
+### Interpretation
+
+- Revenue alone is not an accurate measure of sales success.
+- Some sales representatives are volume-oriented while others are margin-oriented.
+- Incentive structures based purely on sales volume may unintentionally encourage low-margin transactions.
+
+### Recommendations
+
+- Introduce performance evaluation metrics based on **profitability in addition to revenue**.
+- Provide targeted training focused on selling higher-margin products and improving negotiation practices.
+- Adjust compensation or bonus structures to reward profitable sales instead of only sales volume.
+- Share best practices from high-efficiency representatives across the sales team.
