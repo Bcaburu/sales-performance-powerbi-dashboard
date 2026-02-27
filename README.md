@@ -14,7 +14,7 @@ The Sales table acts as the central fact table, connected to dimension tables su
 This structure allows consistent aggregations across different business perspectives including product, geography, and sales performance.
 
 *place holder do print*
-## 🧮 DAX Calculations
+# 🧮 DAX Calculations
 
 DAX measures were created to evaluate performance, growth, and efficiency across multiple business dimensions.  
 The calculations focused on profitability analysis, year-over-year comparison, performance ranking, and product segmentation.
@@ -28,7 +28,7 @@ The calculations focused on profitability analysis, year-over-year comparison, p
 Core financial measures were created to evaluate business health beyond revenue, focusing on margin sustainability and operational efficiency.  
 These metrics helped identify loss-making products, inefficient markets, and declining profitability trends.
 
-**⏳ Time Intelligence**
+**Time Intelligence**
 
 - Revenue PY  
 - Revenue YoY %  
@@ -181,3 +181,15 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 - Provide targeted training focused on selling higher-margin products and improving negotiation practices.
 - Adjust compensation or bonus structures to reward profitable sales instead of only sales volume.
 - Share best practices from high-efficiency representatives across the sales team.
+# 📈 Final Conclusion
+
+The company is experiencing **revenue growth but declining profitability**.  
+Although sales volume continues to expand, **margin compression indicates that operational efficiency is deteriorating over time**.
+
+The analysis shows that the core problem is not demand, but **business structure**. The company is **highly dependent on the Bikes category**, which concentrates most revenue while generating weak or negative profitability. In particular, **Road and Touring Bikes consistently operate at a loss**, while **Mountain Bikes show volatile margins** that strongly affect overall financial results.
+
+At the same time, **higher-margin categories such as Clothing and Accessories represent a small share of total revenue**, limiting their positive impact on company performance. Geographic analysis also reveals that losses are amplified in specific markets where low-margin products dominate sales.
+
+To achieve **sustainable growth**, the company should shift focus from **volume to profitability**. Strategic actions should include reviewing pricing and cost structure within the Bikes category, reducing exposure to persistently unprofitable subcategories, and increasing sales of high-margin complementary products such as Clothing and Accessories through cross-selling and targeted commercial strategies.
+
+By **optimizing product mix, improving margin management, and aligning regional strategy with profitability performance**, the business can convert revenue growth into long-term financial sustainability.
