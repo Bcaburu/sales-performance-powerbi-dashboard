@@ -58,7 +58,7 @@ This segmentation enabled strategic portfolio analysis and supported decision-ma
 
 ### Page 1: Executive Overview
 
-![Executive Overview](*place holder do print*)
+![Executive Overview](https://github.com/Bcaburu/sales-performance-powerbi-dashboard/blob/main/images/ExecutiveOverview.JPG?raw=true)
 
 ### Key Insights
 
